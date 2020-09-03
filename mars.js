@@ -5591,24 +5591,24 @@ MARS50.on("ready", () => { console.log( `Online In Servers` ); let statuses = [
 
 /// by mars
 
-MARS.login("");
-MARS2.login("");
-MARS3.login("");
-MARS4.login("");
-MARS5.login("");
-MARS6.login("");
-MARS7.login("");
-MARS8.login("");
-MARS9.login("");
-MARS10.login("");
-MARS11.login("")
-MARS12.login("");
-MARS13.login("");
-MARS14.login("");
-MARS15.login("");
-MARS16.login("");
-MARS17.login("");
-MARS18.login("");
+MARS.login("NzQ3OTA4MjgxODU4NTIzMjQ4.X0VuWA.TRaBNWcHuLs1g3ByaoNoMlRaxng");
+MARS2.login("NzQ3OTA5MTAxNDA4ODc4Njg0.X0VvBw.y8dkeyLP9V-G8qv1ix0gHabQX9A");
+MARS3.login("NzQ3OTA5NzkzNDI3MDk1NjU2.X0VwEA.49vHZVYBsj2OKsSJtRgEa8aFyD4");
+MARS4.login("NzQ3OTEwODA5NTU2MDkwOTMw.X0VwpA.cWzrGYkuCP-A_43pzsEclZjrrEI");
+MARS5.login("NzQ3OTExMzkwODk5MDc3MTgy.X0VxLQ.ll2dwTgGWwSDs9o2nNClRvbBHEI");
+MARS6.login("NzQ3OTExOTgzMzkwNjU0NjI2.X0Vx3w.Zbmjv6DRWSOLQS2F-9Srk5npih0");
+MARS7.login("NzQ3OTEyNzMxMzkwMTE1OTEx.X0Vyhw.VlGMxpApbbC_QpURGjq53rj5mbU");
+MARS8.login("NzQ3OTEzNDQyNDU0OTI5NDY5.X0VzDA.KsSKkUHA-cLp2ZUAFdp-wufm0W0");
+MARS9.login("NzQ3OTE0MjE0ODMxODE2ODE0.X0V5dQ.PvrGYSeFMzB2hPiFqArjs0UpbmA");
+MARS10.login("NzQ3OTIwODUzMTk0MjQ0MTE3.X0V6BA.wReWQ_oHQaSJIuTEL_pbR9ocM8s");
+MARS11.login("NzQ3OTIxNDYxOTk3NzMxOTUy.X0V6eg.5Ls8pMbFLrHtfyJLnZdMc6xL7SA")
+MARS12.login("NzQ3OTIxOTQyNzE1MTcwODk2.X0V6_A.VymD0F0f93udoAAXotLgr1GCMz0");
+MARS13.login("NzQ3OTIyNTE5MjA5NTQxNjMy.X0V7xQ.J1P32adzX5bgyHWm9KXAtD1ERZQ");
+MARS14.login("NzQ3OTIzMzYwMTM4MjY0NTc4.X0V8Uw.OHDRzn5vJ3yY4xPPV6S3Fl4fQpw");
+MARS15.login("NzQ3OTI0MDM2MDA4NTQyMzQ5.X0V9Mg.uViIg75CBfKt5WPRfPc8-CNJQAU");
+MARS16.login("NzQ3OTI0ODU1MjY1MTY1MzQy.X0V_dQ.d9zzlhEcNEnDwC6yn6ZP_Bs4vsk");
+MARS17.login("NzQ3OTI3MzI2MjI2MTIwODE1.X0WAeA.hvkgBQha3udfGJyiOAKOzOSH7pw");
+MARS18.login("NzQ3OTI4NTIyODgyMDIzNTM1.X0WBug.LFdxvTpi0zflYM7AhbLqRV0NVJU");
 MARS19.login("");
 MARS20.login("");
 MARS21.login("");
